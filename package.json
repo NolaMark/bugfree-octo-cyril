@@ -3,9 +3,9 @@
 	"version": "0.0.1",
 	"author": "nolamark",
 	"engines": {
-        "node": "0.10.x"
-    }
+		"node": "0.10.x"
+	},
 	"dependencies": {
-        "tilestream": "1.1.0"
-    }
+		"tilestream": "1.1.0"
+	}
 }
