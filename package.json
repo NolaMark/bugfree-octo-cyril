@@ -2,13 +2,10 @@
 	"name": "bugfree-octo-cyril",
 	"version": "0.0.1",
 	"author": "nolamark",
+	"engines": {
+        "node": "0.10.x"
+    }
 	"dependencies": {
-		"tilestream": "1.1.0"
-	},
-	"engines":{
-		"node":"0.10.31",
-		"npm": "2.6.1"
-	}
+        "tilestream": "1.1.0"
+    }
 }
-
-
